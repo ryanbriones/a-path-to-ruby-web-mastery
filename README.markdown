@@ -1,0 +1,7 @@
+# A Path to Ruby Web Mastery
+
+The Internet has changed the mindset of the would be developer. The web has become so ubiquitous that building web applications has become the status quo for new developers. The neutrality of the medium, the web browser, makes it easy for developers to get started easily and provides a tight feedback loop for disciplined practitioners. Equally so, the invention of Rails has simplified this path in many ways for us and has brought back a lot of excitement to the web development industry. Rails and its ecosystem have changed the way we think about web development.
+
+## LICENCE
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png" /></a><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">Ruby for the Web</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://github.com/ryanbriones/ruby-for-the-web-talk" property="cc:attributionName" rel="cc:attributionURL">Ryan Briones</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License</a>.
